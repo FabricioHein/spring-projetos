@@ -1,0 +1,5 @@
+package com.curd.crud.entities;
+
+public class User {
+
+}

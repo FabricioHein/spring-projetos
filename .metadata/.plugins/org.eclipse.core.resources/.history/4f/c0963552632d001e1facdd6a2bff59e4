@@ -1,0 +1,5 @@
+package com.curd.crud.resources;
+
+public class UsersResources {
+
+}
